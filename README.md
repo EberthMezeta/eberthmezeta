@@ -32,7 +32,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=eberthmezeta&show_icons=true&locale=en" alt="eberthmezeta" />
             </td>
         </tr>
-        <tr>
+        <tr  align="center">
             <td colspan="2">
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eberthmezeta&" alt="eberthmezeta" />
             </td>
