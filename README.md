@@ -7,6 +7,7 @@
 - 🔭 I’m currently working as a PHP/Laravel Dev <br>
 - 🌱 I’m currently improving my skills in design patterns, software architectures and Docker <br>
 -  :books: I want to learn about frontend development
+
 - 👯 I’m looking to collaborate on Web Projects <br>
 - 💬 Ask me about any project idea on mind! <br>
 <br>
