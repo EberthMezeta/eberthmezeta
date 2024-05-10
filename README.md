@@ -5,13 +5,15 @@
 - 👯 I’m looking to collaborate on Web Projects <br>
 - ⚡️ Fun-Fact: Not a morning person tho 🙃
 - 💬 Ask me about any project idea on mind! <br>
+
+
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&pause=1000&color=E74C3C&center=true&vCenter=true&random=false&width=444&lines=Software+engineering.;Design+patterns.;Software+architectures." alt="Typing SVG" /></a>
 </p>
 
 
 <br>
-
+<h2 align="center">Technologies & Tools🔧</h2>
 
 
 <!--
