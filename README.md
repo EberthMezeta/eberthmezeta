@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Eberth Mezeta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 - 🔭 I’m currently working as a PHP/Laravel Dev <br>
-- 🌱 I’m currently improving my skills in design patterns, software architectures and Docker <br>
--  :books: I want to learn about mobile apps <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg"  height="13" width="22"> <br>
+- 🌱 I’m currently improving my skills in design patterns, software architectures and Docker <br> :books: I want to learn about mobile apps <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg"  height="13" width="22"> <br>
 - 👯 I’m looking to collaborate on Web Projects <br>
 - 💬 Ask me about any project idea on mind! <br>
 <p align="center">
