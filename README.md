@@ -3,8 +3,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&pause=1000&color=E74C3C&center=true&vCenter=true&random=false&width=444&lines=Software+engineering.;Design+patterns.;Software+architectures." alt="Typing SVG" /></a>
 </p>
 
-
-<br>
 <h2 align="center">About me :information_desk_person:</h2>
 - 🔭 I’m currently working as a PHP/Laravel Dev <br>
 - 🌱 I’m currently improving my skills in design patterns, software architectures and Docker <br>
