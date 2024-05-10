@@ -20,7 +20,7 @@
 
 </p>
 
-<h2 align="center">Github</h2>
+<h2 align="center">Github stats</h2>
 
 <div align="center">
     <table style="text-align: center;">
@@ -40,7 +40,6 @@
     </table>
 </div>
 
-<div></div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eberthmezeta" alt="eberthmezeta" /></a> </p>
 
