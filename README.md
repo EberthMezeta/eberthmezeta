@@ -22,8 +22,8 @@
 
 <h2 align="center">Github</h2>
 
-<div style="text-align: center;">
-    <table style="width: 100%; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <table style="text-align: center;">
         <tr>
             <td>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&layout=compact" alt="eberthmezeta" />
@@ -39,6 +39,7 @@
         </tr>
     </table>
 </div>
+
 
 
 
