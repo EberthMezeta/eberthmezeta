@@ -22,7 +22,7 @@
 
 <h2 align="center">Github</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div align="center">
     <table style="text-align: center;">
         <tr style="text-align: center;">
             <td>
