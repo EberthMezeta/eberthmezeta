@@ -27,18 +27,17 @@
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&layout=compact" alt="eberthmezeta" />
         </td>
-    </tr>
-    <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=eberthmezeta&show_icons=true&locale=en" alt="eberthmezeta" />
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=eberthmezeta&" alt="eberthmezeta" />
         </td>
     </tr>
 </table>
+
 
 
 
