@@ -20,6 +20,15 @@
 
 </p>
 
+<h2 align="center">Github</h2>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&layout=compact" alt="eberthmezeta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eberthmezeta&show_icons=true&locale=en" alt="eberthmezeta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eberthmezeta&" alt="eberthmezeta" /></p>
+
+
 <!--
 **EberthMezeta/eberthmezeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
