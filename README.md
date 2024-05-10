@@ -24,7 +24,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <table style="text-align: center;">
-        <tr>
+        <tr style="text-align: center;">
             <td>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&layout=compact" alt="eberthmezeta" />
             </td>
