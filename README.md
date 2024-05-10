@@ -23,7 +23,7 @@
 <h2 align="center">Github</h2>
 
 <div align="center">
-    <table style="text-align: center;border:none;">
+    <table style="text-align: center;">
         <tr style="text-align: center;">
             <td>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&layout=compact" alt="eberthmezeta" />
