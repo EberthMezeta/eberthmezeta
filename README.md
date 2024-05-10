@@ -22,21 +22,24 @@
 
 <h2 align="center">Github</h2>
 
-<table style="width: 100%; text-align: center;">
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&layout=compact" alt="eberthmezeta" />
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=eberthmezeta&show_icons=true&locale=en" alt="eberthmezeta" />
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=eberthmezeta&" alt="eberthmezeta" />
-        </td>
-    </tr>
-</table>
+<div style="text-align: center;">
+    <table style="width: 100%; margin: 0 auto;">
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&layout=compact" alt="eberthmezeta" />
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=eberthmezeta&show_icons=true&locale=en" alt="eberthmezeta" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=eberthmezeta&" alt="eberthmezeta" />
+            </td>
+        </tr>
+    </table>
+</div>
+
 
 
 
