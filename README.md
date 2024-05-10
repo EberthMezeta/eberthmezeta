@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Eberth Mezeta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&pause=1000&color=E74C3C&center=true&vCenter=true&random=false&width=444&lines=Software+engineering.;Design+patterns.;Software+architectures.)](https://git.io/typing-svg)
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&pause=1000&color=E74C3C&center=true&vCenter=true&random=false&width=444&lines=Software+engineering.;Design+patterns.;Software+architectures." alt="Typing SVG" /></a>
 </p>
 
 
