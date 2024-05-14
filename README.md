@@ -26,7 +26,7 @@
     <table style="text-align: center;">
         <tr style="text-align: center;">
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&theme=transparent&layout=compact" alt="eberthmezeta" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&theme=onedark&layout=compact" alt="eberthmezeta" />
             </td>
             <td>
                 <img src="https://github-readme-stats.vercel.app/api?username=eberthmezeta&show_icons=true&locale=en&theme=transparent" alt="eberthmezeta" />
