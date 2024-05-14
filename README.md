@@ -29,12 +29,12 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&theme=onedark&layout=compact" alt="eberthmezeta" />
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=eberthmezeta&show_icons=true&locale=en&theme=transparent" alt="eberthmezeta" />
+                <img src="https://github-readme-stats.vercel.app/api?username=eberthmezeta&show_icons=true&locale=en&theme=onedark" alt="eberthmezeta" />
             </td>
         </tr>
         <tr  align="center">
             <td colspan="2">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=eberthmezeta&theme=transparent" alt="eberthmezeta" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=eberthmezeta&theme=onedark" alt="eberthmezeta" />
             </td>
         </tr>
     </table>
