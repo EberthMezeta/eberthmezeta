@@ -21,7 +21,7 @@
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eberthmezeta" alt="eberthmezeta" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eberthmezeta&theme=transparent" alt="eberthmezeta" /></a> </p>
 <div align="center">
     <table style="text-align: center;">
         <tr style="text-align: center;">
@@ -29,7 +29,7 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberthmezeta&show_icons=true&locale=en&theme=transparent&layout=compact" alt="eberthmezeta" />
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=eberthmezeta&show_icons=true&locale=en" alt="eberthmezeta" />
+                <img src="https://github-readme-stats.vercel.app/api?username=eberthmezeta&show_icons=true&locale=en&theme=transparent" alt="eberthmezeta" />
             </td>
         </tr>
         <tr  align="center">
