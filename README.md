@@ -34,7 +34,7 @@
         </tr>
         <tr  align="center">
             <td colspan="2">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=eberthmezeta&" alt="eberthmezeta" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=eberthmezeta&theme=transparent" alt="eberthmezeta" />
             </td>
         </tr>
     </table>
